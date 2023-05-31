@@ -12,11 +12,14 @@ One of the biggest perks for playing on Bedrock or a Java server with Geyser is 
 
 Joining on Xbox Requires you to change your connection settings. Doing this will give you a new menu from the server page in your game to add a new server. These settings should not affect online play for other games, but you can reset them at any time should you choose to do so.
 
-Open your Xbox settings and select the Network Settings option.Network Settings
+Open your Xbox settings and select the Network Settings option.
+![Man](https://img.mcxleague.cf/Discord_aFjEAuVwo5.jpg)
 Go to Advanced Settings and choose the DNS Settings option.
 Select Manual and you will be taken to a screen to manually enter your DNS settingsDNS settings
+![Man](https://img.mcxleague.cf/Discord_ZsEos8p6Wf.jpg)
 For the Primary IPv4 DNS enter: 104.238.130.180
 For the Secondary enter either: 8.8.8.8 or 1.1.1.1DNS settings
+![Man](https://img.mcxleague.cf/image_2021-10-05_161444.jpg)
 Save the changes and the console will perform a connection test
  
 
@@ -36,11 +39,13 @@ Once you get your connection settings saved you can go ahead and open the game. 
 
 Click on Play and go to the Servers tab
 Click on any of the pre-added servers on the listadd bedrock server
+![Man](https://img.mcxleague.cf/bedrock-server-list.png)
 A new menu will appear when you try to join the serveradd bedrock server
 Choose the Connect to a Server option at the top of the screenadd bedrock server
+![Man](https://img.mcxleague.cf/add-bedrock-server-1.png)
 Enter the Address and Port of the server you want to join
 Choose the “add to server list” option to add it to your list, then click Submit
- 
+![Man](https://img.mcxleague.cf/add-bedrock-server-2.png)
 
 ## Common Issues:
 Unable to connect to world:
